@@ -1,5 +1,5 @@
 # NMSA-Homeworks
-- by Marco Bernasconi, Juan Camilo Albarracìn Sanchez
+- by Marco Bernasconi, Juan Camilo Albarracín Sánchez
 
 These files pertain to the Numerical Modeling and Simulation in Acoustics
 coursework held at Politecnico di Milano by professor Ilario Mazzieri
